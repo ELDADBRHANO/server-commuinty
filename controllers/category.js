@@ -1,4 +1,4 @@
-const CategoriesModel = require('../models/Categories');
+const CategoriesModel = require('../models/categories');
 const {
   getAll,
   getById,
